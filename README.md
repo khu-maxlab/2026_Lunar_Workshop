@@ -13,8 +13,12 @@ AI 생성물은 작성자가 직접 검토했으며, 목적에 맞게 수정 및
 ## 1. 레포지토리 구조
 ├── index.html (홈페이지)  
 ├── styles.css (스타일시트)  
-├── Firefly.jpg (홈페이지 표지 이미지)  
-└── 2026_Lunarworkshop_presentation.xlsx (발표 리스트)
+├── Firefly.jpg (홈페이지 표지 이미지)
+├── LW_Science-600-400.jpg (https://doi.org/10.5140/JASS.2023.40.4.131)
+├── LW_instrument.jpg (https://doi.org/10.5140/JASS.2023.40.4.199)
+├── LW_mission-600-400.jpg  (https://doi.org/10.5140/JASS.2022.39.4.181)
+├── 2026_Lunarworkshop_presentation.xlsx (발표 리스트)
+└── 2026_attendees_list.xlsx (참석자 리스트)
 
 ## 2. 2026_Lunarworkshop_presentation.xlsx 수정 방법
 해당 시트에 다음 컬럼을 정확히 맞춰 입력하세요.  
